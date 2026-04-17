@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20241002/pngtree-colorful-underwater-sea-turtle-image_16301391.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 100px;
+}
